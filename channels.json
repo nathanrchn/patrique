@@ -1,0 +1,14 @@
+[
+    {
+        "is_active": false,
+        "is_test": true,
+        "name": "CHANNEL 1",
+        "id": 123456789
+    },
+    {
+        "is_active": false,
+        "is_test": true,
+        "name": " CHANNEL 2",
+        "id": 123456789
+    }
+]
